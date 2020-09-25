@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f389db7-2a1d-4bcb-a5e2-868f422641fb" name="Default Changelist" comment="Fixed short links issue, comments added">
-      <change afterPath="$PROJECT_DIR$/Links/LinkController.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Main.go" afterDir="false" />
+    <list default="true" id="7f389db7-2a1d-4bcb-a5e2-868f422641fb" name="Default Changelist" comment="comments added">
+      <change beforePath="$PROJECT_DIR$/Links/LinkController.go" beforeDir="false" afterPath="$PROJECT_DIR$/Links/LinkController.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="Fixed short links issue" />
     <MESSAGE value="Fixed short links issue, comments added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed short links issue, comments added" />
+    <MESSAGE value="comments added" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601025443757">
@@ -125,20 +124,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601053681820" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601054286138">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601055801458">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601054286138" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/Main.go</url>
-          <line>39</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601055801458" />
   </component>
 </project>

@@ -5,11 +5,8 @@ import (
 	"math/big"
 )
 
-//Основание
-const base int = 62
-
-//Смещение для ID (чтобы ссылки не были слишком короткие)
-const bias int64 = 90
+const base int = 62   //Основание
+const bias int64 = 90 //Смещение для ID (чтобы ссылки не были слишком короткие)
 
 //Содержит всю логику для работы с ссылками
 type LinkController struct {
