@@ -1,0 +1,6 @@
+SELECT * FROM url_shortener.links;CREATE TABLE `links` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `short_link` varchar(90) DEFAULT NULL,
+  `long_link` varchar(90) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=34 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
